@@ -2,12 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses I teach
+description: Courses
 nav: true
 nav_order: 3
 ---
-
-## Teaching
 
 ### Graduate Courses
 

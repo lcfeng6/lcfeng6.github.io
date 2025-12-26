@@ -28,7 +28,7 @@ latest_posts:
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-## Research Directions
+## Research Domains
 
 **3D Reconstruction, 3D Detection, Depth Estimation, Multimodal Large Models**
 
