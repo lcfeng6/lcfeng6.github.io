@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://liuwei.github.io/sitemap.xml
+Sitemap: https://lcfeng6.github.io/sitemap.xml
