@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-01-16'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 5
@@ -30,7 +30,7 @@ papers:
     title: 'MambaMIM: Pre-training Mamba with state space token interpolation and its application to medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:86PQX7AUzd4C:
-    citations: 21
+    citations: 22
     title: 'CROON: Automatic Multi-LiDAR Calibration and Refinement Method in Road Scene'
     year: '2022'
   Vbb5EGIAAAAJ:9c2xU6iGI7YC:
@@ -38,7 +38,7 @@ papers:
     title: 'Gim: A million-scale benchmark for generative image manipulation detection and localization'
     year: '2025'
   Vbb5EGIAAAAJ:9pM33mqn1YgC:
-    citations: 20
+    citations: 21
     title: Towards Better Data Exploitation in Self-Supervised Monocular Depth Estimation
     year: '2023'
   Vbb5EGIAAAAJ:BwyfMAYsbu0C:
@@ -54,7 +54,7 @@ papers:
     title: Variable bandwidth weighting for texture copy artifact suppression in guided depth upsampling
     year: '2016'
   Vbb5EGIAAAAJ:FAceZFleit8C:
-    citations: 5
+    citations: 6
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
@@ -62,7 +62,7 @@ papers:
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HtEfBTGE9r8C:
-    citations: 38
+    citations: 39
     title: 'Opus: occupancy prediction using a sparse set'
     year: '2024'
   Vbb5EGIAAAAJ:ILKRHgRFtOwC:
@@ -122,7 +122,7 @@ papers:
     title: 'Hyperfusion-Net: Hyper-densely reflective feature fusion for salient object detection'
     year: '2019'
   Vbb5EGIAAAAJ:VaXvl8Fpj5cC:
-    citations: 114
+    citations: 115
     title: Non-rigid object tracking via deep multi-scale spatial-temporal discriminative saliency maps
     year: '2020'
   Vbb5EGIAAAAJ:WJVC3Jt7v1AC:
@@ -206,7 +206,7 @@ papers:
     title: Self-paced learning with privileged information
     year: '2019'
   Vbb5EGIAAAAJ:sNmaIFBj_lkC:
-    citations: 17
+    citations: 19
     title: '3D-MMFN: Multi-level multimodal fusion network for 3D industrial image anomaly detection'
     year: '2025'
   Vbb5EGIAAAAJ:tYavs44e6CUC:
