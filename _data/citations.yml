@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-19'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 5
@@ -10,11 +10,11 @@ papers:
     title: Image super-resolution via efficient transformer embedding frequency decomposition with restart
     year: '2024'
   Vbb5EGIAAAAJ:2VqYfGB8ITEC:
-    citations: 0
+    citations: 1
     title: Mixed Gaussian Splatting for High-Quality Rendering and Reconstruction
     year: '2025'
   Vbb5EGIAAAAJ:4MWp96NkSFoC:
-    citations: 89
+    citations: 90
     title: Cascaded context pyramid for full-resolution 3d semantic scene completion
     year: '2019'
   Vbb5EGIAAAAJ:4hFrxpcac9AC:
@@ -58,7 +58,7 @@ papers:
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 83
+    citations: 84
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HtEfBTGE9r8C:
@@ -134,7 +134,7 @@ papers:
     title: 'RAPNet: Residual atrous pyramid network for importance-aware street scene parsing'
     year: '2020'
   Vbb5EGIAAAAJ:XvxMoLDsR5gC:
-    citations: 13
+    citations: 14
     title: '2M3DF: Advancing 3D industrial defect detection with multi perspective multimodal fusion network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
