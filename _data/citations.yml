@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-17'
 papers:
   Vbb5EGIAAAAJ:-FonjvnnhkoC:
     citations: 6
@@ -62,7 +62,7 @@ papers:
     title: 'Mambamim: Pre-training mamba with state space token-interpolation'
     year: '2024'
   Vbb5EGIAAAAJ:EYYDruWGBe4C:
-    citations: 27
+    citations: 28
     title: Variable bandwidth weighting for texture copy artifact suppression in guided depth upsampling
     year: '2016'
   Vbb5EGIAAAAJ:F9fV5C73w3QC:
@@ -74,7 +74,7 @@ papers:
     title: Automatic multi-LiDAR calibration and refinement method
     year: '2024'
   Vbb5EGIAAAAJ:GtLg2Ama23sC:
-    citations: 103
+    citations: 104
     title: 'Softclip: Softer cross-modal alignment makes clip stronger'
     year: '2023'
   Vbb5EGIAAAAJ:HIFyuExEbWQC:
@@ -98,7 +98,7 @@ papers:
     title: Data driven robust image guided depth map restoration
     year: '2015'
   Vbb5EGIAAAAJ:IRz6iEL74y4C:
-    citations: 20
+    citations: 21
     title: 'Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation'
     year: '2025'
   Vbb5EGIAAAAJ:IUKN3-7HHlwC:
@@ -114,7 +114,7 @@ papers:
     title: Hardware-Friendly Positional Encoding Quantization for Fast and Memory-Efficient NeRF
     year: '2024'
   Vbb5EGIAAAAJ:L7CI7m0gUJcC:
-    citations: 18
+    citations: 19
     title: 'An MRF-based depth upsampling: Upsample the depth map with its own property'
     year: '2015'
   Vbb5EGIAAAAJ:LO7wyVUgiFcC:
@@ -150,7 +150,7 @@ papers:
     title: 'V-ABS: Action-Observer Driven Beam Search for Dynamic Visual Reasoning'
     year: '2026'
   Vbb5EGIAAAAJ:PVjk1bu6vJQC:
-    citations: 37
+    citations: 38
     title: Unsupervised Image Restoration with Quality-Task-Perception Loss
     year: '2022'
   Vbb5EGIAAAAJ:QYdC8u9Cj1oC:
@@ -178,11 +178,11 @@ papers:
     title: 'FIX-CLIP: Dual-Branch Hierarchical Contrastive Learning via Synthetic Captions for Better Understanding of Long Text'
     year: '2025'
   Vbb5EGIAAAAJ:WZBGuue-350C:
-    citations: 41
+    citations: 42
     title: 'RAPNet: Residual atrous pyramid network for importance-aware street scene parsing'
     year: '2020'
   Vbb5EGIAAAAJ:XvxMoLDsR5gC:
-    citations: 29
+    citations: 30
     title: '2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network'
     year: '2025'
   Vbb5EGIAAAAJ:Z5m8FVwuT1cC:
@@ -262,7 +262,7 @@ papers:
     title: 'D2S-RSG-SSD: Dual Double-Sampling with Random Sub-Samples Generation for Self-Supervised Real Image Denoising'
     year: '2026'
   Vbb5EGIAAAAJ:mlAyqtXpCwEC:
-    citations: 4
+    citations: 5
     title: 'CMF-IoU: Multi-Stage Cross-Modal Fusion 3D Object Detection with IoU Joint Prediction'
     year: '2025'
   Vbb5EGIAAAAJ:oNZyr7d5Mn4C:
@@ -278,7 +278,7 @@ papers:
     title: Enhancing few-shot object detection with modified faster R-CNN and transfer learning
     year: '2023'
   Vbb5EGIAAAAJ:sNmaIFBj_lkC:
-    citations: 39
+    citations: 41
     title: '3D-MMFN: Multi-level multimodal fusion network for 3D industrial image anomaly detection'
     year: '2025'
   Vbb5EGIAAAAJ:tYavs44e6CUC:
@@ -310,7 +310,7 @@ papers:
     title: A generalized framework for edge-preserving and structure-preserving image smoothing
     year: '2020'
   Vbb5EGIAAAAJ:yFnVuubrUp4C:
-    citations: 0
+    citations: 1
     title: 'NAS-GS: Normal Alignment and Surface-Constrained Optimization of 3DGS for High-Fidelity Surface Reconstruction'
     year: '2025'
   Vbb5EGIAAAAJ:yMeIxYmEMEAC:
@@ -322,6 +322,6 @@ papers:
     title: "MVSSM: Motion-aware Visual State Space Model for Efficient Video Deblurring\u2013Supplementary Material\u2013"
     year: Unknown Year
   Vbb5EGIAAAAJ:zLWjf1WUPmwC:
-    citations: 183
+    citations: 184
     title: Robust color guided depth map restoration
     year: '2016'
